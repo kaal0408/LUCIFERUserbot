@@ -1,19 +1,19 @@
 {
-  "name": "Lion-Z",
+  "name": "LuciferOP",
   "description": "A simple Telegram userbot based on Telethon ",
-  "logo": "https://telegra.ph/file/91282faec32f3e122e8a4.jpg",
+  "logo": "https://telegra.ph/file/9cd3f737d439de8da8b7b.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MdNoor786/LionZ/",
+  "repository": "https://github.com/kaal0408/LuciferUserbot/",
   "website": "#TODO",
-  "success_url": "https://t.me/LionXsupport",
+  "success_url": "https://t.me/Lucifer_support_group",
   "env": {
     "ALIVE_NAME": {
       "description": "give your name",
-      "value": "ⱠłØ₦-Ⱬ Ʉѕєя"
+      "value": "Lucifer User"
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org! Please do not steal",
