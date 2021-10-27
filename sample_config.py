@@ -61,7 +61,7 @@ class Config(object):
     # set this will channel id of your custom plugins
     PLUGIN_CHANNEL = int(os.environ.get("PLUGIN_CHANNEL") or 0)
     # set this value with your required name for telegraph plugin
-    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "LionX")
+    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "Lucifer")
     # for custom thumb image set this with your required thumb telegraoh link
     THUMB_IMAGE = os.environ.get(
         "THUMB_IMAGE", "https://telegra.ph/file/ca95524e4734b0d5461b5.jpg"
@@ -113,7 +113,7 @@ class Config(object):
     REM_BG_API_KEY = os.environ.get("REM_BG_API_KEY", None)
     # Get this value from https://free.currencyconverterapi.com/
     CURRENCY_API = os.environ.get("CURRENCY_API", None)
-    # Google Drive plugin https://telegra.ph/G-Drive-guide-for-LionX-01-01
+    # Google Drive plugin https://telegra.ph/G-Drive-guide-for-LuciferX-01-01
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID", None)
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET", None)
     G_DRIVE_FOLDER_ID = os.environ.get("G_DRIVE_FOLDER_ID", None)
@@ -163,7 +163,7 @@ class Config(object):
     UPSTREAM_REPO_BRANCH = os.environ.get("UPSTREAM_REPO_BRANCH", "master")
     # dont touch this at all
     SUDO_USERS: Set[int] = set()
-    LIONUBLOGO = None
+    LUCIFERUBLOGO = None
     BOTLOG = False
     BOTLOG_CHATID = 0
 
