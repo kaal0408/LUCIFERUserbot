@@ -57,4 +57,4 @@ RUN wget https://raw.githubusercontent.com/kaal0408/LuciferUserbot/master/requir
 #Start Fumkin
 RUN pip3 install -r requirements.txt
 
-CMD ["python3","-m manjeet.py"]
+CMD ["python3","manjeet.py"]
