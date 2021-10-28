@@ -1,1 +1,1 @@
-worker: python3 -m manjeet
+worker: python3 yourstepsis.py
