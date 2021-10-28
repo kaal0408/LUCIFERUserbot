@@ -1,5 +1,4 @@
-from exampleconfig 
-import Config
+from exampleconfig import Config
 
 
 class Development(Config):
