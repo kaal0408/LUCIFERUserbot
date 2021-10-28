@@ -12,13 +12,13 @@ __license__ = "GNU Affero General Public License v3.0"
 __author__ = "LuciferUserBot <https://github.com/kaal0408/LuciferUserbot>"
 __copyright__ = "LuciferUserbot Copyright (©️) 2020 - 2021  " + __author__
 
-lionub.version = __version__
-lionub.tgbot.version = __version__
+luciferub.version = __version__
+luciferub.tgbot.version = __version__
 LOGS = logging.getLogger("Lucifer")
-bot = lionub
+bot = luciferub
 
 StartTime = time.time()
-lionversion = "2.0.1"
+luciferversion = "2.0.1"
 
 if Config.UPSTREAM_REPO == "lucifer":
     UPSTREAM_REPO_URL = "https://github.com/kaal0408/LuciferUserbot"
