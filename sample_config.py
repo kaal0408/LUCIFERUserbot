@@ -1,4 +1,4 @@
-from sample_config import Config
+from exampleconfig import Config
 
 
 class Development(Config):
