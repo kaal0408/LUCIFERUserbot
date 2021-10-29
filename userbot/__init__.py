@@ -4,7 +4,7 @@ import heroku3
 
 from .Config import Config
 from .funcs.logger import logging
-from .funcs.session import lionub
+from .funcs.session import luciferub
 from .sql_helper.globals import addgvar, delgvar, gvarstatus
 
 __version__ = "1.0.1"
